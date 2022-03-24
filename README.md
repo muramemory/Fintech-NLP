@@ -18,8 +18,10 @@ First we create read in the dataframes to analysis the data.
 
 2. Sentiment Analysis
 
-Secondly, we analysis the sentime of the articles. This reveals the positive or negative
-![image_add]()  
+Secondly, we analysis the sentime of the articles. This reveals the occurence of positive or negatively emotional charged words. This helps us identify the general theme of an article.
+
+![image_add]('../Images/2_bitcoin_ethereum_sentimentalanalysis.png') 
+![image_add]('../Images/2_ethereum_sentimentalanalysis.png')
 
 3. Tokenizing Text
 
