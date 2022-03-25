@@ -20,8 +20,8 @@ First we read in the csv files and turn them into dataframes to analyse the data
 
 Secondly, we analyse the sentiment of the articles. This reveals the occurence of positive or negative emotion charged in words. This helps us identify the general theme of an article.
 
-![Bitcoin Sentiment Analysis](Images/2_bitcoin_ethereum_sentimentalanalysis.png) 
-![Ethereum Sentiment Analysis](Images/2_ethereum_sentimentalanalysis.png)
+![Bitcoin Sentiment Analysis](Images/2_bitcoin_ethereum_sentimentanalysis.png) 
+![Ethereum Sentiment Analysis](Images/2_ethereum_sentimentanalysis.png)
 
 3. Tokenizing Text and NGRAM
 
@@ -39,7 +39,11 @@ NGRAM Calculation on the token text.
 
 Generate a wordcloud using the token text data.
 
-![Bitcoin Wordcloud](Images/4_bitcoin_worldcloud.png)
+
+#### Bitcoin Wordcloud
+![Bitcoin Wordcloud](Images/4_bitcoin_wordcloud.png)  
+
+#### Etherem Wordcloud
 ![Ethereum Wordcloud](Images/4_ethereum_wordcloud.png)
 
 
@@ -47,11 +51,14 @@ Generate a wordcloud using the token text data.
 
 Finally, use the token data to perform a NER analysis.
 
-![Bitcoin NER](Images/5_bitcoin_NER_analysis.png)
+![Bitcoin NER](Images/5_bitcoin_NER_analysis.png)  
+
 ![Ethereum NER](Images/5_ethereum_NER_analysis.png)
 
 
 ## Summary
 
 In conclusion, we can see geopgraphical words come up in the anaylsis such as Russia and Ukraine. With some outside research we can identify the reason behind this, and mainly it is due to the conflict occuring in those countries. This has caused more news reports and articles highlighing this particular geographical regions.
+
+Furthermore, we see primary words such as NFT in the ethereum analysis, which is a main product of the ethereum blockchain.
 
