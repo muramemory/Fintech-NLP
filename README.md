@@ -10,20 +10,20 @@ Here is the jupyter notebook kerenl for a deep dive into the code:
 
 ## Overview
 
-1. Creating Dataframes
+### 1. Creating Dataframes
 
 First we read in the csv files and turn them into dataframes to analyse the data.
 
 ![Bitcoin Dataframe](Images/1_bitcoin_ethereum_dataframes.png)
 
-2. Sentiment Analysis
+### 2. Sentiment Analysis
 
 Secondly, we analyse the sentiment of the articles. This reveals the occurence of positive or negative emotion charged in words. This helps us identify the general theme of an article.
 
 ![Bitcoin Sentiment Analysis](Images/2_bitcoin_ethereum_sentimentanalysis.png) 
 ![Ethereum Sentiment Analysis](Images/2_ethereum_sentimentanalysis.png)
 
-3. Tokenizing Text and NGRAM
+### 3. Tokenizing Text and NGRAM
 
 Turn the text into tokens to later use it to create a word cloud.
 
@@ -35,7 +35,7 @@ NGRAM Calculation on the token text.
 ![Bitcoin NGRAM](Images/4_bitcoin_ethereum_ngram_analysis.png)
 ![Etherem NGRAM](Images/4_ethereum_ngram_analysis.png)
 
-4. Wordcloud it up
+### 4. Wordcloud it up
 
 Generate a wordcloud using the token text data.
 
@@ -47,7 +47,7 @@ Generate a wordcloud using the token text data.
 ![Ethereum Wordcloud](Images/4_ethereum_wordcloud.png)
 
 
-5. Nnamed-entity Recognition (NER) Analysis
+### 5. Nnamed-entity Recognition (NER) Analysis
 
 Finally, use the token data to perform a NER analysis.
 
