@@ -47,11 +47,8 @@ Generate a wordcloud using the token text data.
 
 Finally, use the token data to perform a NER analysis.
 
-![Bitcoin NER][]
+![Bitcoin NER](Images/5_bitcoin_NER_analysis.png)
 ![Ethereum NER](Images/5_ethereum_NER_analysis.png)
-
-![]
-
 
 
 ## Summary
