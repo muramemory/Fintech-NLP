@@ -27,8 +27,8 @@ Secondly, we analyse the sentiment of the articles. This reveals the occurence o
 
 Turn the text into tokens to later use it to create a word cloud.
 
-![Bitcoin Tokens](Image/3_bitcoin_ethereum_NLP_tokenize.png)
-![Bitcoin Tokens](Image/3_ethereum_NLP_tokenize.png)  
+![Bitcoin Tokens](Images/3_bitcoin_ethereum_NLP_tokenize.png)
+![Bitcoin Tokens](Images/3_ethereum_NLP_tokenize.png)  
 
 NGRAM Calculation on the token text.
 
