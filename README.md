@@ -6,7 +6,7 @@ Below you will find an overview of the analysis and henceforth the summary.
 
 Here is the jupyter notebook kerenl for a deep dive into the code:
 
-![Code_Kernel](https://github.com/muramemory/Fintech-NLP/blob/main/Code/crypto_sentiment.ipynb)  
+![Code_Kernel](Code/crypto_sentiment.ipynb)  
 
 ## Overview
 
@@ -14,7 +14,7 @@ Here is the jupyter notebook kerenl for a deep dive into the code:
 
 First we create read in the dataframes to analysis the data.
 
-![image_add]('../Images/1_bitcoin_ethereum_dataframes.png')
+![image_add](Images/1_bitcoin_ethereum_dataframes.png)
 
 2. Sentiment Analysis
 
