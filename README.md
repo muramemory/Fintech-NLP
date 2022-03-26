@@ -1,6 +1,6 @@
 # Fintech-NLP
 
-Welcome to an Natural Language Processing of Bitcoin and Ethereum articles on the internet using [spacy](https://spacy.io/), coded in Python, jupyternotebook.
+Welcome to an Natural Language Processing of Bitcoin and Ethereum articles on the internet using [spacy](https://spacy.io/), coded in Python, [jupyternotebook](https://jupyter.org/).
 
 
 Below you will find an overview of the analysis and henceforth the summary.
