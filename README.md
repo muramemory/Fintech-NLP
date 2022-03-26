@@ -59,7 +59,7 @@ Finally, use the token data to perform a NER analysis.
 
 ## Summary
 
-In conclusion, we can see geopgraphical words come up in the anaylsis such as Russia and Ukraine. With some outside research we can identify the reason behind this, and mainly it is due to the conflict occuring in those countries. This has caused more news reports and articles highlighing this particular geographical regions.
+In conclusion, we can see geopgraphical words come up in the anaylsis such as Russia and Ukraine. With some outside research we can identify the reason behind this, and mainly it is due to the conflict occuring in those countries. This has caused more news reports and articles highlighing these geographical regions.
 
 Furthermore, we see primary words such as NFT in the ethereum analysis, which is a main product of the ethereum blockchain.
 
